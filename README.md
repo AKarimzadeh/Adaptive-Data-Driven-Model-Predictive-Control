@@ -22,6 +22,23 @@ The figure below demonstrates the closed-loop performance of the proposed contro
 - **Constraint Handling:** Strict enforcement of amplitude and rate constraints on the control input.
 - **Publication-Ready Plots:** Automatically generates high-resolution (300 DPI) and vector (PDF) plots.
 
+
+## Citation
+
+If you use this code or build upon it, please cite the following article in which this method appears as a comparative baseline:
+
+```bibtex
+@article{karimzadeh2026robust,
+  title={Robust data-driven control of Automatic Voltage Regulators using DeePC: Regularization techniques under noise and uncertainty},
+  author={Karimzadeh, Abdollah and Mousavi, Seyed Aref and Asemani, Mohammad Hassan},
+  journal={International Journal of Electrical Power \& Energy Systems},
+  volume={178},
+  pages={111973},
+  year={2026},
+  publisher={Elsevier}
+}
+```
+
 ## 📁 Repository Structure
 ```text
 adaptive-mpc-avr/

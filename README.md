@@ -20,7 +20,6 @@ The figure below demonstrates the closed-loop performance of the proposed contro
 ## ✨ Key Features
 - **Online System Identification:** RLS with forgetting factor for real-time parameter estimation.
 - **Constraint Handling:** Strict enforcement of amplitude and rate constraints on the control input.
-- **Publication-Ready Plots:** Automatically generates high-resolution (300 DPI) and vector (PDF) plots.
 
 
 ## Citation
